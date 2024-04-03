@@ -1,2 +1,2 @@
-# mystic_presense
-fivem discord rich presense
+# mystic_presence
+discord rich presence for fivem
